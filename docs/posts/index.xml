@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Chynna&#39;s Blog</title>
+        <link>https://brebabiee.github.io/mysite/posts/</link>
+        <description>Recent content in Posts on Chynna&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Sun, 24 Mar 2019 13:30:54 -0400</lastBuildDate>
+        <atom:link href="https://brebabiee.github.io/mysite/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Myfirstpost</title>
+            <link>https://brebabiee.github.io/mysite/posts/2019/03/myfirstpost/</link>
+            <pubDate>Sun, 24 Mar 2019 13:30:54 -0400</pubDate>
+            
+            <guid>https://brebabiee.github.io/mysite/posts/2019/03/myfirstpost/</guid>
+            <description>my first post today</description>
+            <content type="html"><![CDATA[<p>my first post today</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

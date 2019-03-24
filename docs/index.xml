@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chynna&#39;s Blog</title>
+    <link>https://brebabiee.github.io/mysite/</link>
+    <description>Recent content on Chynna&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://brebabiee.github.io/mysite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
